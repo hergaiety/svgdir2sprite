@@ -25,7 +25,7 @@ svgdir2sprite('./src/svgs', './build/spritesheet.svg');
 
 ## From the CLI
 
-`npm install -g blabber-comic`
+`npm install -g svgdir2sprite`
 
 ### Return SVG Spritesheet to the Console
 
