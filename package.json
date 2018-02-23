@@ -7,6 +7,9 @@
   "bin": {
     "svgdir2sprite": "./cli.js"
   },
+  "scripts": {
+    "lint": "eslint ./*.js"
+  },
   "keywords": [
     "svg",
     "symbol",
@@ -23,5 +26,12 @@
     "fs": "0.0.1-security",
     "svg2sprite": "^2.0.1",
     "yargs": "^7.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
   }
 }
