@@ -1,5 +1,7 @@
 # svgdir2sprite
 
+[![npm version](https://badge.fury.io/js/svgdir2sprite.svg)](https://www.npmjs.com/package/svgdir2sprite)
+
 Creates a spritesheet from a directory of svgs. Can return the results directly or write to a spritesheet svg file. Node based and powered by [svg2sprite](https://github.com/mrmlnc/svg2sprite).
 
 ## As a Module
