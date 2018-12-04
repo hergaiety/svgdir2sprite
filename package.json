@@ -19,7 +19,7 @@
     "icon",
     "icons"
   ],
-  "author": "Joe Wroten <sharpshark28@gmail.com> (http://joewroten.com/)",
+  "author": "Joe Wroten <joe@wroten.me> (https://www.wroten.me/)",
   "license": "MIT",
   "dependencies": {
     "async": "^2.3.0",
