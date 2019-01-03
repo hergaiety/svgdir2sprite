@@ -1,6 +1,6 @@
 {
   "name": "svgdir2sprite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a spritesheet from a directory of svgs.",
   "repository": "sharpshark28/svgdir2sprite",
   "main": "index.js",
